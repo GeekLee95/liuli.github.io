@@ -11,13 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.E. in Electronic and Information Engineering, Beijing Institute of Technology, 2012-2016
-* M.E. in Information and Communication Engineering, Beijing Institute of Technology, 2016-2019
+* B.E. Degree
+  * Beijing Institute of Technology(**BIT**)
+  * Electronic and Information Engineering
+  * 2012-2016
+
+* M.E. Degree
+  * Beijing Institute of Technology(**BIT**)
+  * Information and Communication Engineering
+  * 2016-2019
 
 Main Hornors
 ======
 * National Scholarship four times during B.E. and M.E.
-* Outstanding Graduates of Beijing, Outstanding Graduates of BIT
+* Outstanding Graduates of Beijing, Outstanding Graduates of (**BIT**)
   
 Work experience
 ======
