@@ -12,7 +12,7 @@ NIO-AD·Autonomous Driving Development
 Responsible for building an automated production pipeline for the data loop back, and opening up the entire link from mass production backflow data to dataset production. Design and integrate multiple algorithm modules 3D lidar odemetry & visual odemetry & nerf.
 
 * **AutoTriage**
-Responsible for the Autotriage project and design the architecture. Develop cloud offline perception system and locate the root cause of the DLB data. The project is used in AEB, ELK, NOP+ business, its automated processing rate reaches 70\%.
+Responsible for the Autotriage project and design the architecture. Develop cloud offline perception system and locate the root cause of the DLB data. The project is used in AEB, ELK, NOP+ business, its automated processing rate reaches 70%.
 
 * **BEV perception**
   * Build the cloud-sensing BEV processing capability, complete the delivery of multiple 3D detection models. 
