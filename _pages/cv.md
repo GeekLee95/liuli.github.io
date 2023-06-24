@@ -28,17 +28,17 @@ Main Hornors
   
 Work experience
 ======
-* Xiaomi Autonomous Driving Development
+* **Xiaomi Autonomous Driving Development**
   * Mar 2023 - present, Beijing China
   * Staff Algorithm Engineer
   * Team Leader of AutoLabeling and Perception Evaluation
 
-* NIO-AD·Autonomous Driving Development
+* **NIO-AD·Autonomous Driving Development**
   * Mar 2022 - Mar 2023, Beijing China
   * Staff Algorithm Engineer
   * Project Leader of AutoTriage; Production Line Leader of AutoLabeling
 
-* Alibaba DAMO Academy-Autonomous Driving Department 
+* **Alibaba DAMO Academy-Autonomous Driving Department**
   * Jun 2019 - Feb 2022, Hangzhou China
   * Senior Algorithm Engineer
   * Core Developer of Autodriving Perception System
