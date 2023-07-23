@@ -27,6 +27,7 @@ Main Hornors
 ======
 * **National Scholarship** (**four times**) during B.E. and M.E.
 * Outstanding Graduates of Beijing, Outstanding Graduates of **BIT**
+* Top 10 Youth Models of **BIT**
   
 Work experience
 ======
