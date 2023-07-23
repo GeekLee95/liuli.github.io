@@ -14,6 +14,8 @@ Education
 * B.E. Degree, 2012-2016
   * Beijing Institute of Technology (**BIT**)
   * Electronic and Information Engineering
+  * GPA: 91.4/100, Ranking: 2/150
+
 
 
 * M.E. Degree, 2016-2019 
@@ -23,7 +25,7 @@ Education
 
 Main Hornors
 ======
-* National Scholarship (**four times**) during B.E. and M.E.
+* **National Scholarship** (**four times**) during B.E. and M.E.
 * Outstanding Graduates of Beijing, Outstanding Graduates of **BIT**
   
 Work experience
