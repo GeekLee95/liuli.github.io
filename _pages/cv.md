@@ -30,7 +30,7 @@ Work experience
 ======
 * **Xiaomi Autonomous Driving Development**
   * Mar 2023 - present, Beijing China
-  * Staff Algorithm Engineer
+  * Staff Algorithm Engineer, the **youngest 18-Level** engineer
   * Team Leader of AutoLabeling and Perception Evaluation
 
 * **NIO-AD·Autonomous Driving Development**
